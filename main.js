@@ -54,7 +54,6 @@ const advancedChallenge = () => {
 
 appendAll();
 
-
 const secondSection = document.querySelector("#second-section");
 
 challengeFunction();
